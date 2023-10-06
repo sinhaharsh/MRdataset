@@ -12,3 +12,8 @@ MRdataset : unified interface to various neuroimaging datasets
 
 
 
+
+
+.. image:: https://api.codacy.com/project/badge/Grade/44166936b6fe4779bd86f078f2393659
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/gh/sinhaharsh/MRdataset?utm_source=github.com&utm_medium=referral&utm_content=sinhaharsh/MRdataset&utm_campaign=Badge_Grade
